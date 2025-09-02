@@ -20,7 +20,7 @@
 
 ---
 
-## 📚 Certificaciones en curso  
+## 📚 Cursos
 - Endpoint Security (INA)  
 - Redes de Computadoras (CCNA – INA)  
 - Implementación de Servicios en la Nube (Google Cloud Foundations)  
@@ -35,7 +35,7 @@
 
 ## 🤝 Buscando oportunidades en  
 - Pasantías en TI  
-- Puestos de Técnico en Soporte Informático  
+- Puestos de Técnico en Soporte Informático
 
 ---
 
