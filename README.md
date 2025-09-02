@@ -42,4 +42,9 @@
 ## 📫 Contáctame  
 - 📧 Email: *ojgortiz282@gmail.com*  
 - 💼 LinkedIn: https://www.linkedin.com/in/ojgo282/ 
-- 🖥️ Github: https://github.com/OwlS7  
+- 🖥️ Github: https://github.com/OwlS7
+
+---
+
+## Me
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22sh77h65yyl6c4vyuzyxqyyq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
