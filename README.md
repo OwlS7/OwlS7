@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Owel Jafet Gutiérrez Ortiz  
+# 🐈 ¡Hola! Soy Owel Jafet Gutiérrez Ortiz  
 
 🎓 **Estudiante de Ingeniería Informática** en la Universidad Estatal a Distancia (UNED). Actualmente finalizando el diplomado y avanzando hacia el bachillerato en Ingeniería Informática.  
 
@@ -20,20 +20,20 @@
 
 ---
 
-## 📚 Cursos
+## 📓 Cursos
 - Endpoint Security (INA)  
 - Redes de Computadoras (CCNA – INA)  
 - Implementación de Servicios en la Nube (Google Cloud Foundations)  
 
 ---
 
-## 🌱 Actualmente aprendiendo  
+## 🚄 Actualmente aprendiendo  
 - Seguridad informática aplicada al entorno empresarial  
 - Automatización de tareas en TI  
 
 ---
 
-## 🤝 Buscando oportunidades en  
+## 🏛️ Buscando oportunidades en  
 - Pasantías en TI  
 - Puestos de Técnico en Soporte Informático
 
@@ -41,5 +41,5 @@
 
 ## 📫 Contáctame  
 - 📧 Email: *ojgortiz282@gmail.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ojgo282/)  
-- 🖥️ [GitHub](https://github.com/Owel282)  
+- 💼 LinkedIn: https://www.linkedin.com/in/ojgo282/ 
+- 🖥️ Github: https://github.com/OwlS7  
