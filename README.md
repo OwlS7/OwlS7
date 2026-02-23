@@ -1,6 +1,6 @@
 # 🐈 ¡Hola! Soy Owel Jafet Gutiérrez Ortiz  
 
-🎓 **Estudiante de Ingeniería Informática** en la Universidad Estatal a Distancia (UNED). Actualmente finalizando el diplomado y avanzando hacia el bachillerato en Ingeniería Informática.  
+🎓 **Estudiante de Ingeniería en Computación** en el Instituto Tecnologico de Costa Rica.
 
 💻 **Soporte técnico y la gestión de sistemas TI.** Tengo experiencia práctica en:  
 - Soporte técnico presencial y remoto (hardware y software).  
@@ -23,7 +23,6 @@
 ## 📓 Cursos
 - Endpoint Security (INA)  
 - Redes de Computadoras (CCNA – INA)  
-- Implementación de Servicios en la Nube (Google Cloud Foundations)  
 
 ---
 
