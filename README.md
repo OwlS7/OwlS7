@@ -1,8 +1,8 @@
-# 🐈 ¡Hola! Soy Owel Jafet Gutiérrez Ortiz  
+# ¡Hola! Soy Owel Jafet Gutiérrez Ortiz  
 
-🎓 **Estudiante de Ingeniería en Computación** en el Instituto Tecnologico de Costa Rica.
+**Estudiante de Ingeniería en Computación** en el Instituto Tecnologico de Costa Rica.
 
-💻 **Soporte técnico y la gestión de sistemas TI.** Tengo experiencia práctica en:  
+**Soporte técnico y la gestión de sistemas TI.** Tengo experiencia práctica en:  
 - Soporte técnico presencial y remoto (hardware y software).  
 - Administración de sistemas operativos (Windows, Linux, macOS).  
 - Configuración de redes LAN/WiFi y telefonía IP.  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔧 Tecnologías y Herramientas  
+## Tecnologías y Herramientas  
 - **Soporte remoto:** AnyDesk, TeamViewer, Microsoft Remote Desktop  
 - **Productividad:** Microsoft 365 (Excel, Word, Outlook, Teams, OneDrive), Google Workspace  
 - **Redes y conectividad**  
@@ -20,28 +20,22 @@
 
 ---
 
-## 📓 Cursos
-- Endpoint Security (INA)  
-- Redes de Computadoras (CCNA – INA)  
-
----
-
-## 🚄 Actualmente aprendiendo  
+##  Actualmente aprendiendo  
 - Seguridad informática aplicada al entorno empresarial  
 - Automatización de tareas en TI  
 
 ---
 
-## 🏛️ Buscando oportunidades en  
+## Buscando oportunidades en  
 - Pasantías en TI  
 - Puestos de Técnico en Soporte Informático
 
 ---
 
-## 📫 Contáctame  
-- 📧 Email: *ojgortiz282@gmail.com*  
-- 💼 LinkedIn: https://www.linkedin.com/in/ojgo282/ 
-- 🖥️ Github: https://github.com/OwlS7
+## Contáctame  
+- Email: *ojgortiz282@gmail.com*  
+- LinkedIn: https://www.linkedin.com/in/ojgo282/ 
+- Github: https://github.com/OwlS7
 
 ---
 
